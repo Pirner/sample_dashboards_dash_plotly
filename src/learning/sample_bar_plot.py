@@ -14,6 +14,7 @@ def main():
         'text': '#7FDBFF'
     }
 
+    # sample data frame to display something \O/
     df = pd.DataFrame({
         "Fruit": ["Apples", "Oranges", "Bananas", "Apples", "Oranges", "Bananas"],
         "Amount": [4, 1, 2, 2, 4, 5],
